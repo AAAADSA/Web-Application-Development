@@ -1,0 +1,53 @@
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #333;
+        }
+
+        .container {
+            text-align: center;
+            margin-top: 50px;
+            border: 10px solid whitesmoke;
+            border-radius: 5px;
+            margin-bottom: 40px;
+            padding-bottom: 100px; 
+            max-width: 600px; 
+            margin-left: auto; 
+            margin-right: auto; 
+        }
+
+        h1 {
+            padding-top: 40px;
+            color: #E6E6FA;
+            font-weight: bold;
+        }
+
+        .error-message {
+            color: red;
+            font-weight: bold;
+        }
+
+        .countdown {
+            color: white;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+
+        .links-container {
+            margin-top: 20px;
+            display: inline-block;
+            padding: 10px;
+            color: white;
+        }
+
+        .links-container a {
+            display: block;
+            margin-bottom: 10px;
+            color: white;
+        }
+
+        .links-container a:hover {
+            display: block;
+            margin-bottom: 10px;
+            color: purple;
+        }
+   

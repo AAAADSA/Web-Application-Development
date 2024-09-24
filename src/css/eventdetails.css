@@ -1,0 +1,180 @@
+body {
+    background-color: #333333;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 50px auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+.gaminge1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.eventh2 {
+    text-align: center;
+    color: white;
+    font-size: 29px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    position: relative;
+    padding: 20px;
+}
+
+.eventh2::before {
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    width: 100px;
+    height: 10px;
+    background-color: #4CAF50;
+    transform: translateX(-50%);
+    border-radius: 20px;
+}
+
+
+.eventh2::after {
+    content: '';
+    position: absolute;
+    bottom: -15px;
+    left: 0;
+    width: 100%;
+    height: 20px;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.2), transparent);
+}
+
+
+.event {
+    margin-bottom: 30px;
+    background-color: #444; 
+    padding: 20px; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+}
+
+.event p,
+.event li {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-top: 20px; 
+}
+
+.event ul {
+    padding-left: 0; 
+    list-style: none; 
+}
+
+.event ul li {
+    margin-bottom: 10px; 
+}
+
+.event ul li::before {
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em; 
+}
+
+.user-input {
+    text-align: right;
+    margin-bottom: 30px;
+}
+
+.user-input div {
+    margin-bottom: 10px;
+}
+
+.user-input label {
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+    color: white;
+    font-size: 16px;
+    font-weight: bold; 
+}
+
+.user-input input[type="text"],
+.user-input input[type="email"],
+.user-input input[type="tel"] {
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 14px; 
+}
+
+.buy-1 {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+    margin-right: 145px;
+    font-weight: bold; 
+}
+
+.buy-1:hover {
+    background-color: #45a049;
+}
+
+.event-details {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 75px;
+    border-radius: 100px;
+}
+
+.details {
+    flex: 0 0 30%;
+}
+
+.details p {
+    color: white;
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: bold; 
+}
+
+.user-input {
+    flex: 0 0 65%;
+}
+
+.user-input label {
+    display: block;
+    color: white;
+    font-size: 16px;
+    margin-bottom: 5px;
+    font-weight: bold; 
+}
+
+.user-input input[type="text"],
+.user-input input[type="email"],
+.user-input input[type="tel"] {
+    width: calc(100% - 10px);
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 14px;  
+}

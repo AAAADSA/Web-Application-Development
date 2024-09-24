@@ -1,0 +1,135 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing:border-box;
+}
+
+nav{
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    font-family: 'Mouse Memoirs', sans-serif;
+    background-color: #1f1e1e;
+    min-height:13vh;
+    background-position:center;
+    background-repeat:repeat;
+}
+
+.topic h4{
+    width: 50%;
+}
+
+.topic a{ 
+    color: #E7EDF7;
+    text-decoration:none;
+    text-transform:uppercase;
+    letter-spacing:3px;
+}
+
+.header{
+    display:flex;
+    letter-spacing:1px;
+    width:100%;
+    background-color: #080808;
+}
+
+.header a{
+    color:#E7EDF7;
+    text-decoration:none;
+    font-size:17px;
+}
+
+.header li{
+    width:130px;
+    list-style-type:none;
+    justify-content:space-around;
+}
+
+.header a:hover{
+    background-color:#350202;
+    transition:0.5s;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .header {
+    overflow: hidden;
+    background-color: #1f1e1e;
+    align-items:center;
+    }
+    
+    .active{
+            float: left;
+            display: block;
+            margin-left:40px;
+            font-weight:bold;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+            }
+    .list{
+            float:right!important;
+            display: block;
+            color: #f2f2f2;
+            margin-right:30px;
+            margin-left:30px;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+    .header a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 0px;
+    text-decoration: none;
+    font-size: 17px;
+    }
+
+    .header a:hover {
+    background-color: #ddd;
+    color: black;
+    border-radius:30px;
+    }
+
+
+
+    .header .icon {
+    display: none;
+    }
+
+
+    @media screen and (max-width: 600px) {
+    .header a:not(:first-child) {
+        display: none;
+    }
+    .header a.icon {
+        color:white;
+        float: right;
+        display: block;
+    }
+    .header.responsive {
+        position: relative;
+    }
+    .header.responsive .icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .header.responsive a {
+        float: none!important;
+        display: block;
+        text-align: left;
+    }
+    }
+
+
+
+

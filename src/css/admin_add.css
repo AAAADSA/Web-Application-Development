@@ -1,0 +1,101 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('../image/admin1.jpeg');
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #00FF00;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 60px;
+}
+
+form table {
+    width: 90%;
+}
+
+form table td {
+    padding: 10px;
+    color: #FFFFFF;
+}
+
+form table label {
+    font-weight: bold;
+}
+
+.info {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+.error {
+    background-color: #f44336;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+ul.error {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.error li {
+    color: white;
+    background-color: #f44336;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
+
+input[type="text"], input[type="submit"], input[type="button"] {
+    width: 100%;
+    padding: 12px; 
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"], input[type="button"] {
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover, input[type="button"]:hover, button[type="submit"]:hover, button[type="button"]:hover {
+    background-color: yellowgreen; 
+}
+
+button[type="submit"], button[type="button"] {
+    padding: 20px;
+    background-color: white;
+    color: black;
+    border: 0px;
+    cursor: pointer;
+    margin-right: 30px;
+    border-radius: 15px;
+}
+
+button[type="submit"]:hover, button[type="button"]:hover {
+    background-color: yellowgreen; 
+}

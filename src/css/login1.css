@@ -1,0 +1,97 @@
+body {
+    background-color: #333333;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+label {
+    font-size: 16px; 
+}
+
+.button {
+    display: inline-block;
+    margin: 20px auto; 
+    padding: 10px 20px;
+    border: 2px solid #FFF; 
+    border-radius: 25px; 
+    background-color: transparent;
+    color: #FFF;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold; 
+    cursor: pointer; 
+    transition: all 0.3s; 
+    margin-top: 50px;
+}
+
+.button:hover {
+    background-color: #FFF;
+    color: #333; 
+}
+
+.user_registerbutton {
+    display: inline-block;
+    margin: 20px auto; 
+    padding: 10px 20px;
+    border: 2px solid #FFF; 
+    border-radius: 25px; 
+    background-color: transparent;
+    color: #FFF;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold; 
+    cursor: pointer; 
+    transition: all 0.3s; 
+}
+
+.user_registerbutton:hover {
+    background-color: #FFF;
+    color: #333; 
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr; 
+    justify-items: center; 
+    gap: 20px; 
+    padding: 200px;
+}
+
+.grid-item {
+    background-color: #444; 
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 35px;
+    text-align: center;
+}
+
+.grid-item:hover {
+    border-color: white; 
+}
+.input-group {
+    position: relative;
+    margin-bottom: 20px; 
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background-color: #555;
+    color: white;
+   
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="email"]:focus {
+    outline: none;
+    border-color: #4CAF50; 
+}
+

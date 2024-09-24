@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('../image/admin1.jpeg');
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #00FF00; 
+    text-align: center; 
+    margin-bottom: 60px; 
+    margin-top: 60px; 
+}
+
+
+form table {
+    max-width: 100%;
+    border-collapse: collapse;
+}
+
+form table th, form table td {
+    padding: 10px;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+
+form table th {
+    background-color: #333;
+    font-weight: bold;
+    text-align: left;
+}
+
+form table tr:nth-child(even) {
+    background-color: #444;
+}
+
+form table tr:nth-child(odd) {
+    background-color: #555;
+}
+
+form table tr:hover {
+    background-color: #666;
+}
+
+form table input[type="checkbox"] {
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+
+form input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 10px 20px;
+    margin-top: 20px; 
+}
+
+
+form input[type="submit"]:hover {
+    background-color: #45a049;
+}
