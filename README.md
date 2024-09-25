@@ -1,9 +1,9 @@
 # Web-Application-Development
 
-#### 1. *Overview*
+## 1. *Overview*
 Melody Maven is designed to be a user-friendly platform for managing and hosting music events. It caters to both users (attendees) and administrators (event organizers) through distinct web pages and functionalities. 
 
-#### 2. *Key Pages for Users*
+## 2. *Key Pages for Users*
 
 - *Home Page:* 
   This is the landing page where users can find general information about Melody Maven, including featured events. It’s designed to be visually engaging, showcasing current or upcoming events with easy navigation options to explore more.
@@ -17,7 +17,7 @@ Melody Maven is designed to be a user-friendly platform for managing and hosting
 - *About Us Page:*
   This page provides background information on Melody Maven, including its mission, team, and vision for connecting music lovers with events. It’s essential for building trust and transparency with users.
 
-#### 3. *Administrative Pages*
+## 3. *Administrative Pages*
 
 - *Admin Login Page:*
   This page is specifically for event organizers or site administrators to log into their account. It is secured to ensure that only authorized personnel can manage events and bookings.
@@ -28,7 +28,7 @@ Melody Maven is designed to be a user-friendly platform for managing and hosting
 - *Manage Booking Page:*
   Admins can also manage event bookings here. They can view, edit, or cancel bookings. It provides a streamlined way to handle attendee registrations and monitor the success of events.
 
-#### 4. *User Flow*
+## 4. *User Flow*
 
 The user experience is designed to be seamless:
 1. Visitors land on the *Home Page* and explore events.
@@ -40,7 +40,7 @@ For event organizers, the flow is similarly intuitive:
 2. They can then add events through the *Add Event Page*.
 3. They manage bookings and attendee lists through the *Manage Booking Page*, ensuring smooth event execution.
 
-## Setup
+## 5. Setup
 1. Download the zip file.
 2. run it using [NetBeans](https://netbeans.apache.org/front/main/download/nb17/index.html) and [XAMPP](https://www.apachefriends.org/download.html)
 
