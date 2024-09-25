@@ -42,7 +42,7 @@ For event organizers, the flow is similarly intuitive:
 
 ## 5. Setup
 1. Download the zip file.
-2. run it using [NetBeans](https://netbeans.apache.org/front/main/download/nb17/index.html) and [XAMPP](https://www.apachefriends.org/download.html)
+2. Run it using [NetBeans](https://netbeans.apache.org/front/main/download/nb17/index.html) and [XAMPP](https://www.apachefriends.org/download.html)
 
 
 
