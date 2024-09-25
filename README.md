@@ -40,6 +40,9 @@ For event organizers, the flow is similarly intuitive:
 2. They can then add events through the *Add Event Page*.
 3. They manage bookings and attendee lists through the *Manage Booking Page*, ensuring smooth event execution.
 
-If you want to try my project,just download the zip file and run it using [NetBeans](https://netbeans.apache.org/front/main/download/nb17/index.html) and [XAMPP](https://www.apachefriends.org/download.html)
+## Setup
+1. Download the zip file.
+2. run it using [NetBeans](https://netbeans.apache.org/front/main/download/nb17/index.html) and [XAMPP](https://www.apachefriends.org/download.html)
+
 
 
