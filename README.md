@@ -45,7 +45,7 @@ For event organizers, the flow is similarly intuitive:
 2. Run it using [NetBeans](https://netbeans.apache.org/front/main/download/nb17/index.html) and [XAMPP](https://www.apachefriends.org/download.html)
 
 ## 6. Sample Output
-![Screenshot 2024-09-24 221753](https://github.com/user-attachments/assets/2646c68c-2d68-491f-8fd1-519a9aa228e8)
+![Screenshot 2024-09-24 222456](https://github.com/user-attachments/assets/433e8a00-5e76-4af3-99b3-5c3078c4a30f)
 ![Screenshot 2024-09-20 201341](https://github.com/user-attachments/assets/67b8a046-ffca-4486-b75d-039643783575)
 ![Screenshot 2024-09-20 201314](https://github.com/user-attachments/assets/454191b0-1ed3-46c6-9de7-fb8306d04ddd)
 ![Screenshot 2024-09-20 201111](https://github.com/user-attachments/assets/09aef10b-e309-4886-9211-e41fd9d7e7c7)
