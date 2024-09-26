@@ -44,5 +44,15 @@ For event organizers, the flow is similarly intuitive:
 1. Download the zip file.
 2. Run it using [NetBeans](https://netbeans.apache.org/front/main/download/nb17/index.html) and [XAMPP](https://www.apachefriends.org/download.html)
 
+## 6. Sample Output
+![Screenshot 2024-09-24 221753](https://github.com/user-attachments/assets/2646c68c-2d68-491f-8fd1-519a9aa228e8)
+![Screenshot 2024-09-20 201341](https://github.com/user-attachments/assets/67b8a046-ffca-4486-b75d-039643783575)
+![Screenshot 2024-09-20 201314](https://github.com/user-attachments/assets/454191b0-1ed3-46c6-9de7-fb8306d04ddd)
+![Screenshot 2024-09-20 201111](https://github.com/user-attachments/assets/09aef10b-e309-4886-9211-e41fd9d7e7c7)
+![Screenshot 2024-09-20 201105](https://github.com/user-attachments/assets/822b480c-03ec-4f0d-98d3-4f083233bbde)
+![Screenshot 2024-09-20 201008](https://github.com/user-attachments/assets/33843cd2-f9b9-47ad-a14a-ac1b1827fda0)
+![Screenshot 2024-09-24 222228](https://github.com/user-attachments/assets/8ebdfc38-1366-4413-94d7-157e75854293)
+![Screenshot 2024-09-24 222013](https://github.com/user-attachments/assets/6f3469e8-165b-4067-a549-83589df3ee24)
+
 
 
